@@ -5,5 +5,4 @@ package.json
 config/
 coverage/
 node_modules/
-src/
 tests/
